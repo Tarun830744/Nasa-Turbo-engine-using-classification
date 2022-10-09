@@ -95,3 +95,8 @@ and confussion matrics are
 
 
 ![output](https://user-images.githubusercontent.com/79400336/194772714-75d0d69f-a660-4c11-97c7-a3ce4b9fa1bc.png)
+
+
+## Explanation Video
+
+https://youtu.be/VwSVm226UuE
